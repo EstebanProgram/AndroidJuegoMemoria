@@ -93,7 +93,7 @@ git clone https://github.com/tu-usuario/tu-repositorio.git
 
 ## 👨‍💻 Autor
 
-Desarrollado por **[Tu Nombre]**
+Desarrollado por **Esteban**
 
 ---
 
